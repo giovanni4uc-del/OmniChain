@@ -16,7 +16,7 @@ An enterprise-grade business intelligence platform built to monitor **$4.37 Bill
 | **Active Inventory Granularity** | `500 Master SKUs` |
 | **Surface Fleet Tracking** | `500 Deployed Assets` |
 | **Human Capital Audited** | `2,000 Active Personnel` |
-| **Underlying Engine** | `17-Table Star Schema` |
+| **Underlying Engine** | `31-Table Master Star Schema` |
 
 ---
 
