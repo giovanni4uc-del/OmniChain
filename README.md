@@ -5,7 +5,7 @@
 [![Data Architecture](https://img.shields.io/badge/Architecture-17--Table_Star_Schema-0D9488?style=for-the-badge)](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
 [![UI/UX](https://img.shields.io/badge/UX-Decoupled_Z--Layer-34D399?style=for-the-badge)](#-interface--ux-engineering)
 > ### [ 📥 DOWNLOAD MASTER .PBIX DASHBOARD FILE (225 MB) ](https://drive.google.com/file/d/19TIzNEVVygh0NTpfKeR73fbLYmlgXKaQ/view?usp=drive_link)
-
+> ### [ 📥 DOWNLOAD THE 31 TABLES ](https://drive.google.com/drive/folders/15r7dNWJ9OU8_aQo6gZDySLRwtKRAxsCE?usp=drive_link)
 > *"Most enterprise dashboards fail because they try to shove fifty different metrics into a single chaotic viewport. OmniChain decouples data density from the C-Suite UX."*
 
 An enterprise-grade business intelligence platform built to monitor **$4.37 Billion** in global gross merchandise volume. Engineered from the ground up to solve the three major choke points of legacy corporate reporting: multi-page horizontal sprawl, unformatted 9-digit cognitive overload, and slicer-lock during deep SKU drill-throughs.
